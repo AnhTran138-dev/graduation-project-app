@@ -51,7 +51,3 @@ This project was built by a team of **four members**, with **three backend devel
 ├── 📁 PCDACO-Owner/           # Mobile app for car owners
 ├── 📁 Track-location-app/     # GPS tracking app for vehicles
 └── README.md
-
----
-
-<!-- End of README -->
